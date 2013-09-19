@@ -1,0 +1,7 @@
+h1. MspCALines
+
+Run in "Processing":http://processing.org (2.0b7).
+
+Just playing with Cellular Automation and simple lines.
+
+Have a "looksie in your browser":https://rawgithub.com/msp/MspCALines/master/web-export/index.html.
